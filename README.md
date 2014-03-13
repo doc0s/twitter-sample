@@ -5,3 +5,5 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 * finished 3.4
+* 2014/03/12 skipped 3.5 and 3.6
+
