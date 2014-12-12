@@ -110,15 +110,16 @@ footer {
       margin-left: 10px;
     }
   }
-
-  /* misc */
-
-  .debug_dump {
-    clear: both;
-    float: left;
-    width: 100%;
-    margin-top: 45px;
-    @include box_sizing;
-  }
-
 }
+
+/* misc */
+
+.debug_dump {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin-top: 45px;
+  @include box_sizing;
+}
+
+
